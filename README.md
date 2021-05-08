@@ -25,6 +25,6 @@ We offer a tool that allows for the storage and viewing of links to various webp
 4. Now hit \q and then type cd app to go into the app folder in the terminal. From here, we are ready to run the program and navigate through the site. Type these two commands in the terminal
     
     * export FLASK_APP=app.py
-    * flask run ??
+    * flask run 
 
 5. Now navigate to the site shown in the terminal to see the new Trentoniana Database User Interface we have created. You will have the option to search and filter through the database, as well as make insertions, updates, and deletions if you are an admin. 
